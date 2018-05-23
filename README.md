@@ -1,1 +1,28 @@
-# jsonfile
+[
+
+{
+	
+   "id": 1;
+   "name": "Anurag";
+   "age": 21
+
+},
+
+{
+	
+   "id" : 2;
+   "name": "Amar";
+   "age" : 22
+
+
+},
+
+{
+	 "id"=3;
+	 "name": "Vivek";
+	 "age" :"23
+
+
+}
+
+]
